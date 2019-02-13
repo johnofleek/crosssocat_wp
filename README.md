@@ -1,7 +1,7 @@
 # crosssocat_wp
 crosssocatWp85
 
-Cross built version of socat dor WP85
+Cross built version of socat for WP85
 
 
 # Clone
